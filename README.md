@@ -2,7 +2,7 @@
 
 ### .H5 File link (https://drive.google.com/file/d/18_2ZUcfq25nOEghT1xw8kk3KQwr-umGu/view?usp=sharing)
 
-### PPTX (https://docs.google.com/presentation/d/1S8wb5gOFTwGZYKFblgQPDwzTP39vi7zL/edit?usp=drive_link&ouid=112011770901139299951&rtpof=true&sd=true)
+### PPTX (https://docs.google.com/presentation/d/1DpPZQeb_E3MDxAR6Yaiyy9H4Ut0uCY8E/edit?usp=sharing&ouid=118297448147784932652&rtpof=true&sd=true)
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
@@ -64,9 +64,6 @@ Built with modern ML frameworks and deployed as an interactive web application.
 ### Installation & Setup
 
 ```bash
-# Clone the repository
-git clone https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION.git
-cd TREE_SPECIES_CLASSIFICATION
 
 # Install dependencies
 pip install -r requirements.txt
