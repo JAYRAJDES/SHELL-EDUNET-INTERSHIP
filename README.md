@@ -235,10 +235,6 @@ joblib>=1.3.0          # Model serialization
 
 ### Step 1: Environment Setup
 ```bash
-# Clone repository
-git clone https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION.git
-cd TREE_SPECIES_CLASSIFICATION
-
 # Create virtual environment (recommended)
 python -m venv tree_env
 tree_env\Scripts\activate  # Windows
@@ -401,9 +397,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact & Support
 
-**Author**: Satyam Pandey  
-**GitHub**: [@SatyamPandey-07](https://github.com/SatyamPandey-07)  
-**Repository**: [TREE_SPECIES_CLASSIFICATION](https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION)
+**Author**: Jayraj Deshmukh 
+**GitHub**: [@JAYRAJDES ·](https://github.com/JAYRAJDES)  
+**Repository**: [SHELL-EDUNET-INTERSHIP]https://github.com/JAYRAJDES/SHELL-EDUNET-INTERSHIP)
 
 ### Getting Help
 - 🐛 **Bug Reports**: [Open an issue](https://github.com/SatyamPandey-07/TREE_SPECIES_CLASSIFICATION/issues)
